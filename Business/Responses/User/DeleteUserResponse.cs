@@ -2,5 +2,6 @@
 {
     public class DeleteUserResponse
     {
+        public Guid Id { get; set; }
     }
 }
